@@ -22,7 +22,7 @@ ML Engineer @
 ### 💻 Workspace 
 <img height="30" src="https://img.shields.io/badge/Windows-ASUS_ROG_G15-0078D6?style=for-the-badge&logo=windows&logoColor=white"/> <img height="30" src="https://img.shields.io/badge/NVIDIA-RTX3050-76B900?style=for-the-badge&logo=nvidia&logoColor=white"/>  <img height="30" src="https://img.shields.io/badge/AMD-Ryzen_7_6800H-ED1C24?style=for-the-badge&logo=amd&logoColor=white"/> 
 
-![Tharun's GitHub stats](https://github-readme-stats-eta-lac-37.vercel.app/api?username=Tharun-Exe&theme=dark&show_icons=true&&hide=issues,contribs)
+![Tharun's GitHub stats](https://github-readme-stats-qlw5.vercel.app/api?username=Tharun-Exe&theme=dark&show_icons=true&&hide=issues,contribs)
 
 [![Leetcode Stats]()
 
