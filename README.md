@@ -1,8 +1,7 @@
 ## Hi there 👋 It's me Tharun
 
 ML Engineer @ 
-<img align="right" width="498" height="281" src="https://media1.tenor.com/m/YjiuFd-KUVQAAAAC/one-piece-one-piece-movie-9.gif">
-- 🔭 Here's my [portfolio]()                                                 
+<img align="right" width="498" height="281" src="https://media1.tenor.com/m/YjiuFd-KUVQAAAAC/one-piece-one-piece-movie-9.gif">                                      
 - 🌱 I’m currently learning DSA & Java
 - 👯 I’m a Student
 - 🤔 I’m looking for help with Placements
