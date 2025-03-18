@@ -1,7 +1,7 @@
 ## Hi there 👋 It's me Tharun
 
 ML Engineer @ 
-<img align="right" width="370" height="290" src="[https://www.icegif.com/wp-content/uploads/2021/11/icegif-1564.gif](https://tenor.com/en-GB/view/one-piece-one-piece-movie-9-op-movie-9-episode-of-chopper-bloom-in-the-winter-miracle-sakura-gif-7077598223380664660)">
+<img align="right" width="370" height="290" src="https://media1.tenor.com/m/YjiuFd-KUVQAAAAC/one-piece-one-piece-movie-9.gif">
 - 🔭 Here's my [portfolio]()                                                 
 - 🌱 I’m currently learning DSA & Java
 - 👯 I’m a Student
