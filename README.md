@@ -17,3 +17,6 @@
 
 ### 💻 Workspace:
 <img height="30" src="https://img.shields.io/badge/Windows-ASUS_ROG_G15-0078D6?style=for-the-badge&logo=windows&logoColor=white"/> <img height="30" src="https://img.shields.io/badge/NVIDIA-RTX3050-76B900?style=for-the-badge&logo=nvidia&logoColor=white"/>  <img height="30" src="https://img.shields.io/badge/AMD-Ryzen_7_6800H-ED1C24?style=for-the-badge&logo=amd&logoColor=white"/> 
+
+
+![LeetCode Stats](https://leetcard.jacoblin.cool/Tharun-Exe?theme=forest&font=Noto%20Sans%20Meetei%20Mayek&ext=heatmap)
