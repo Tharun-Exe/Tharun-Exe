@@ -1,8 +1,7 @@
 ## Hi there 👋 It's me Tharun
 
 ML Engineer @ 
-<div class="tenor-gif-embed" data-postid="7077598223380664660" data-share-method="host" data-aspect-ratio="1.76596" data-width="100%"><a href="https://tenor.com/view/one-piece-one-piece-movie-9-op-movie-9-episode-of-chopper-bloom-in-the-winter-miracle-sakura-gif-7077598223380664660">One Piece One Piece Movie 9 GIF</a>from <a href="https://tenor.com/search/one+piece-gifs">One Piece GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
-<img align="right" width="370" height="290" src="https://www.icegif.com/wp-content/uploads/2021/11/icegif-1564.gif">
+<img align="right" width="370" height="290" src="[https://www.icegif.com/wp-content/uploads/2021/11/icegif-1564.gif](https://tenor.com/en-GB/view/one-piece-one-piece-movie-9-op-movie-9-episode-of-chopper-bloom-in-the-winter-miracle-sakura-gif-7077598223380664660)">
 - 🔭 Here's my [portfolio]()                                                 
 - 🌱 I’m currently learning DSA & Java
 - 👯 I’m a Student
