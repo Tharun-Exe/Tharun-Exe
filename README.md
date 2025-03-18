@@ -1,7 +1,7 @@
 ## Hi there 👋 It's me Tharun
 
 ML Engineer @ 
-<img align="right" width="370" height="290" src="">
+<img align="right" width="370" height="290" src="https://www.icegif.com/wp-content/uploads/2021/11/icegif-1564.gif">
 - 🔭 Here's my [portfolio]()                                                 
 - 🌱 I’m currently learning DSA & Java
 - 👯 I’m a Student
