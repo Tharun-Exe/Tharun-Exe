@@ -2,7 +2,7 @@
 
 @ 
 <img align="right" width="498" height="281" src="https://media1.tenor.com/m/YjiuFd-KUVQAAAAC/one-piece-one-piece-movie-9.gif">                                      
-- 🌱 I’m currently learning DSA & OOPS in python
+- 🌱 I’m currently learning DSA & OOPS in Java
 - 👯 I’m a Student
 - 🤔 I’m looking for help with Placements
 - 💬 Ask me about Tech
